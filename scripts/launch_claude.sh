@@ -4,7 +4,7 @@ sleep 0.3
 alacritty \
   --class dialogterm \
   --title Dialogue \
-  --option 'window.opacity=0.92' \
+  --option 'window.opacity=0.80' \
   --option 'window.padding.x=24' \
   --option 'window.padding.y=18' \
   --option 'window.dimensions.columns=100' \
